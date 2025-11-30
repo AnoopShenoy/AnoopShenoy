@@ -12,4 +12,3 @@ Here are some ideas to get you started:-->
 - 💬 Ask me about CSS, Javascript and how to be a chef for your family on weekends.
 - 📫 How to reach me: Twitter - @bt_anoop
 - 😄 Pronouns that I can relate to at my present situation: BETTER LATE THAN NEVER!
-- ⚡ Fun fact: I am a front-end guy with 10+yrs of experience, who didn't push a single line of personal work to GitHub, until now.
